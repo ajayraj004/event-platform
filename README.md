@@ -14,3 +14,6 @@ A full-stack web application that demonstrates event ingestion, lifecycle tracki
 - Database: MongoDB Atlas
 - Deployment: AWS EC2 (backend), AWS S3 (frontend)
 
+AWS WEBSITE LINK:-
+- http://event-platform-frontend1.s3-website-us-east-1.amazonaws.com
+
